@@ -9,7 +9,6 @@ that is to be published at NeurIPS 2021.
 1. Clone the `deepmind-research` repository and `cd` into this directory:
 ```
 git clone https://github.com/deepmind/deepmind-research.git
-cd deepmind-research
 ```
 
 2. Now install the requirements to your system
