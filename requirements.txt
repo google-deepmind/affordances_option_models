@@ -1,0 +1,8 @@
+absl-py==0.13.0
+gym==0.13.1
+numpy==1.19.5
+dm-acme==0.2.1
+dm-env==1.5
+dm-launchpad[tensorflow]>=0.3.1
+dm-tree==0.1.6
+tensorflow_probability==0.7.0
