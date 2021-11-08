@@ -18,12 +18,11 @@ to use a `virtualenv` to isolate dependencies.
 For example:
 ```
 git clone https://github.com/deepmind/affordances_option_models.git
-cd deepmind-research
 
 python3 -m virtualenv affordances
 source affordances/bin/activate
 
-pip install -r ./requirements.txt
+pip install -r affordances_option_models/requirements.txt
 ```
 
 ## Usage
